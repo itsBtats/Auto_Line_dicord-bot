@@ -50,6 +50,7 @@ const client = new Client({
   ],
   allowedMentions: { repliedUser: false },
 });
+const fs = require("fs");
 const EventEmitter = require("events");
 const myEmitter = new EventEmitter();
 myEmitter.setMaxListeners(12099999);
