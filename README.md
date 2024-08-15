@@ -1,8 +1,8 @@
 
 ```markdown
-# Quantum Bot
+# Auto line Bot
 
-This bot is developed by the Quantum Developers team. The main developer of this bot is Btats. For any assistance or support, you can join our help server using the link provided below.
+This bot is developed by the Developers team. The main developer of this bot is Btats. For any assistance or support, you can join our help server using the link provided below.
 
 ## Installation
 
@@ -28,13 +28,13 @@ node index.js
 
 For any questions or issues, please join our support server on Discord:
 
-[Support Server](https://discord.gg/WkRXAqDjnc)
 
-## Developer Information
+## Coder Information
 
 - **Main Developer:** Btats
 - **Discord Username:** its_btats
 
-This bot is created with love and dedication by the Quantum Developers team. We hope it serves your needs and enhances your Discord experience.
+This bot is created with love and dedication by the 
+Developers team. We hope it serves your needs and enhances your Discord experience.
 ```
 
